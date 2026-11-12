@@ -1,0 +1,9 @@
+MISSION : ALEX · VERSION MULTILINGUE MISE À JOUR
+
+- index.html : CV interactif FR / NL / EN (autonome, images et TFE intégrés)
+- CV_Alexandre_Blondeel_FR.pdf : CV français
+- CV_Alexandre_Blondeel_NL.pdf : CV néerlandais
+- CV_Alexandre_Blondeel_EN.pdf : CV anglais
+- TFE_Alexandre_Blondeel_2023.pdf : TFE complet
+
+Remplacez la version publique par index.html.
