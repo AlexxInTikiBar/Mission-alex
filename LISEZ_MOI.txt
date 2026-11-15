@@ -1,8 +1,0 @@
-MISSION : ALEX — Alexandre Blondeel
-
-Publication GitHub Pages : déposer index.html à la racine du dépôt.
-Les fichiers PDF joints sont exactement ceux intégrés au jeu.
-Le site contient déjà les images et les PDF, et fonctionne également en mode hors-ligne.
-
-Pour mettre à jour un dépôt existant, remplacer index.html et valider le commit.
-Le TFE et les coordonnées sont publics si ce dossier est publié dans un dépôt public.
